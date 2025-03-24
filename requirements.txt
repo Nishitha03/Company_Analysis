@@ -9,4 +9,6 @@ gtts==2.2.4
 nltk==3.6.5
 pandas==1.3.5
 plotly==5.5.0
-streamlit==1.12.0
+streamlit
+numpy
+lxml_html_clean

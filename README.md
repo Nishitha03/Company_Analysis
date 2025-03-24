@@ -81,6 +81,12 @@ The app will open automatically in your browser at: `http://localhost:8501`
 ## 🖼️ App Preview
 
 <!-- Add screenshots here when available -->
+<img width="1440" alt="Screenshot 2025-03-24 at 11 36 12 PM" src="https://github.com/user-attachments/assets/d92bd35a-abae-4388-8f9a-f40a26f25e87" />
+<img width="1440" alt="Screenshot 2025-03-24 at 11 36 19 PM" src="https://github.com/user-attachments/assets/3ddebdc8-76d1-4e89-970a-295d8c8ca697" />
+<img width="1394" alt="Screenshot 2025-03-24 at 11 36 29 PM" src="https://github.com/user-attachments/assets/f1245654-ab21-4714-bff6-dc25d3bfa692" />
+<img width="1440" alt="Screenshot 2025-03-24 at 11 36 37 PM" src="https://github.com/user-attachments/assets/ae8bde13-9163-41f7-bfe5-eb773529ead9" />
+<img width="1439" alt="Screenshot 2025-03-24 at 11 36 43 PM" src="https://github.com/user-attachments/assets/e83b3502-7cb5-41c2-b9fb-1418cdd462c5" />
+
 
 ## 🔐 Gemini API Setup
 

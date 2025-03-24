@@ -129,5 +129,5 @@ This project is licensed under the MIT License.
 ## 📬 Contact
 
 If you have any questions or feedback:
-📧 Email: your.email@example.com
-🌐 GitHub: yourusername
+📧 Email: nishithaanand2004@gmail.com
+

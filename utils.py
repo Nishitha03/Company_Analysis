@@ -16,7 +16,7 @@ import gtts
 import nltk
 
 # Download NLTK data
-nltk.download('punkt_tab')
+nltk.download('punkt')
 
 def configure_dns():
     """Configure DNS resolution to use Google DNS servers"""
